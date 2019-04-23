@@ -2,14 +2,14 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.cbc"
-        versionCode = "3550"
-        android-versionCode="3550"
-        version   = "3.5.0">
-    <name>CAMPUS de CBC  International</name>
+        id        = "com.moodle.hdsq"
+			versionCode = "3550"
+			android-versionCode="3550"
+			version   = "3.5.0">
+    <name>Campus virtual de Holmberg Deutsche Schule Quilmes</name>
 
     <description>
-      Campus moodle de Consciuous Business Center
+      Campus moodle de Holmberg Deutsche Schule Quilmes
     </description>
 
    <author href="http://entornos.net" email="info@entornos.com.ar">Entornos Educativos</author>
